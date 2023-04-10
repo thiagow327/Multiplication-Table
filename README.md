@@ -1,2 +1,2 @@
-# Count
-The Counter project is a basic web application that lets users set a start and end number, along with a step value, to create a numeric count. The application generates a sequence of numbers based on user inputs and displays the result on the webpage.
+# Multiplication Table
+This project is a simple multiplication calculator where the user can enter a number and see the results of multiplying that number by other numbers from 0 to 10. The multiplication results are displayed on the screen, allowing the user to quickly visualize the outcomes.
